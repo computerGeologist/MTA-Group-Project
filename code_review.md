@@ -9,12 +9,13 @@
 ## Clean Code:
 
 - Code generally follows PEP-8
-- You can delete lines of unused/commented out code, or remove "dead end" notebooks you didn't end up using in your analysis (e.g. Rare_Date.ipynb)
+- You can delete lines of unused/commented out code, or remove "dead end" notebooks you didn't end up using in your analysis
 
 ## Good Documentation:
 
 - README.md does not contain information about project
 - Many inline comments, no markdown cells
+- Comments did a good job of explaining decisions and logical flow of analysis steps
 
 ## Proper Data Science:
 
